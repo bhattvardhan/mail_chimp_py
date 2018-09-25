@@ -3,7 +3,7 @@ A small python script which traverses through your defined folder structure and 
 
 The code has been written considering below directory structure:
 
-
+![alt text](https://github.com/bhattvardhan/mail_chimp_py/blob/master/dir_structure.png)
 
 The sub-folders directly under Assignments are individual student folders and the same are their student IDs. Under them are their respective assignment folders which will contain an assignment file.
 
