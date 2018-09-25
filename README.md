@@ -5,7 +5,7 @@ The code has been written considering below directory structure:
 
 ![alt text](https://github.com/bhattvardhan/mail_chimp_py/blob/master/dir_structure.png)
 
-The sub-folders directly under Assignments are individual student folders and the same are their student IDs. Under them are their respective assignment folders which will contain an assignment file.
+The sub-folders directly under Assignments are individual student folders and the same are their student IDs for e.g. jamieo@something.edu. Under them are their respective assignment folders which will contain an assignment file.
 
 The script will prompt the user to supply the assignment number for e.g. 1, 2, n which will decide the assignment to be attached to the email by appending the against the hw folder.
 
